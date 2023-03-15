@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
     font-family: "inter", sans-serif;
-    list-style: none;
+   
     
 }
 
@@ -15,6 +15,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.img-gambar{
+    width: 100%;
 }
 
 .pinarik2 {
@@ -35,6 +38,8 @@
 .pinarik3 {
     background-color: #0D1C37;
     color: #fff;
+    
+    height: 250px;
    
 }
 
@@ -43,9 +48,10 @@
     
 }
 
-
-.section4 .pinarik4 h2 {
-    display: flex;
+span{
+    font-size: 70px;
+}
+.section4 .pinarik4 {
     width: 374px;
     height: 100px;
     align-items: center;
